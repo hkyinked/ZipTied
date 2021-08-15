@@ -55,7 +55,7 @@ h2 {
 .btn-primary {
     background-color: white;
     border: none;
-    color: #333;
+    color: rgb(107, 7, 128);
 }
 
 .btn-primary:hover,
@@ -86,7 +86,7 @@ h2 {
 }
 
 .navbar a {
-    color: white;
+    color: rgb(24, 216, 40);
 }
 
 .navbar-brand {
@@ -122,7 +122,7 @@ h2 {
     bottom: -10px;
     width: 20px;
     height: 20px; 
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     border-radius: 50%;
 }
 
@@ -138,7 +138,7 @@ h2 {
 
 .navbar .navbar-nav .nav-item.selected .nav-link,
 .navbar .navbar-nav .nav-item .nav-link:hover {
-    color: #621f8a;
+    color: #7719ad;
     border-bottom: 1px solid #99FF66;
 }
 
