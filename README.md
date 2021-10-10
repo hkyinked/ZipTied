@@ -2,8 +2,7 @@
 Check out ZipTied Performance webpage. High performance aftermarket installations, and dynoTuning.
 Check out the link Below.
 <p align="center">https://ziptiedperformance.com</p>
-
-Author: Nerdyj
+<p align="center">Author: Nerdyj</p>
 
 <p>Build Status:
 
@@ -11,4 +10,4 @@ Author: Nerdyj
 
 Hit Counter:
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhkyinked%2FZipTied&count_bg=%2379C83D&title_bg=%23555555&icon=hackaday.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhkyinked%2FZipTied&count_bg=%2379C83D&title_bg=%23555555&icon=hackaday.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://ziptiedperformance)
